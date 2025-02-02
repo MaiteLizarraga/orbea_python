@@ -1,0 +1,7 @@
+pandas==2.2.3
+numpy==1.23.0
+Faker
+seaborn==0.13.2
+matplotlib==3.10
+pylint
+pytest-cov
